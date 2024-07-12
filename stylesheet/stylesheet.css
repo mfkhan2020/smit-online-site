@@ -1,0 +1,25 @@
+h1{
+    color: blue;
+    font-size: 65px;
+}
+
+h2{ 
+    color: blueviolet;
+}
+
+p{
+    color: tomato;
+    font-size: 30gitpx;
+}
+
+button{
+    color: rgb(238, 62, 9);
+    font-size: larger;
+    border-radius: 25%;
+    border-color: burlywood;
+}
+
+h3{
+    color: cadetblue;
+    font-size: 25px;
+}
